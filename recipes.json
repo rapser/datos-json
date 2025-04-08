@@ -1,0 +1,164 @@
+{
+  "dishes": [
+    {
+      "name": "Ceviche",
+      "photo": "https://www.elespectador.com/resizer/v2/2AVD5Z6Y2ZFWHETPQGCPLMNK4A.jpg?auth=82394bc07906097860918c7a77b6320dbba80a4b67cc293a909e810ae6941229&width=920&height=613&smart=true&quality=60",
+      "description": "Pescado crudo marinado en jugo de limón, con cebolla roja, ají y cilantro. Acompañado de camote, choclo y cancha serrana.",
+      "ingredients": ["Pescado blanco fresco", "Limón", "Cebolla roja", "Ají limo", "Cilantro", "Camote", "Choclo", "Cancha serrana"],
+      "origin": "Perú",
+      "location": { "lat": -12.04318, "lng": -77.02824 }
+    },
+    {
+      "name": "Lomo Saltado",
+      "photo": "https://recetasdecocina.elmundo.es/wp-content/uploads/2024/02/lomo-saltado.jpg",
+      "description": "Carne de res salteada con cebolla, tomate, ají amarillo y salsa de soya, servido con papas fritas y arroz.",
+      "ingredients": ["Lomo de res", "Cebolla", "Tomate", "Ají amarillo", "Salsa de soya", "Vinagre", "Papas fritas", "Arroz"],
+      "origin": "Perú",
+      "location": { "lat": -12.04318, "lng": -77.02824 }
+    },
+    {
+      "name": "Ají de Gallina",
+      "photo": "https://imagenes.elpais.com/resizer/v2/FPKN2NFO7BBC7NQBAOKALTZM4M.jpg?auth=4da1571a11c5ffce1995f11e0319efa11a0610dc96dac47efd1a9ddf1567834f&width=1200",
+      "description": "Guiso cremoso de pollo desmenuzado en salsa de ají amarillo, nueces, leche y pan, servido con papas y arroz.",
+      "ingredients": ["Pechuga de pollo", "Ají amarillo", "Pan remojado", "Leche", "Nueces", "Queso fresco", "Papas"],
+      "origin": "Perú",
+      "location": { "lat": -12.04318, "lng": -77.02824 }
+    },
+    {
+      "name": "Anticuchos",
+      "photo": "https://perusumaq.com/wp-content/uploads/2018/06/anti1.jpg",
+      "description": "Brochetas de corazón de res marinadas en ají panca y vinagre, asadas a la parrilla.",
+      "ingredients": ["Corazón de res", "Ají panca", "Vinagre", "Ajo", "Comino", "Papas doradas"],
+      "origin": "Perú",
+      "location": { "lat": -12.04318, "lng": -77.02824 }
+    },
+    {
+      "name": "Causa Rellena",
+      "photo": "https://www.infobae.com/resizer/v2/PKTJOMTL4NEKZPOSQZVJ5TNYGE.jpg?auth=2cee519684dace3260c9f22518a66b3babf73e5bedfa3642a32f0e70c51a4b33&smart=true&width=992&height=606&quality=85",
+      "description": "Capas de papa amarilla mezclada con ají, rellenas de pollo, atún o mariscos, decorada con huevo y aceitunas.",
+      "ingredients": ["Papa amarilla", "Ají amarillo", "Limón", "Pollo desmenuzado", "Mayonesa", "Aceitunas", "Huevo duro"],
+      "origin": "Perú",
+      "location": { "lat": -12.04318, "lng": -77.02824 }
+    },
+    {
+      "name": "Papa a la Huancaína",
+      "photo": "https://tofuu.getjusto.com/orioneat-local/resized2/GZpx6Fg8h78FepdHr-800-x.webp",
+      "description": "Rodajas de papa cubiertas con salsa de ají amarillo, queso fresco y leche, servidas con lechuga y huevo.",
+      "ingredients": ["Papas", "Ají amarillo", "Queso fresco", "Leche", "Galletas saladas", "Lechuga", "Huevo"],
+      "origin": "Perú",
+      "location": { "lat": -11.48, "lng": -74.98 }
+    },
+    {
+      "name": "Rocoto Relleno",
+      "photo": "https://www.joseantonio.com.pe/wp-content/uploads/2019/07/rocoto-relleno.jpg",
+      "description": "Ají rocoto relleno de carne molida, cebolla, queso y aceitunas, horneado con gratinado de papa.",
+      "ingredients": ["Rocoto", "Carne molida", "Cebolla", "Queso", "Aceitunas", "Huevo", "Papas"],
+      "origin": "Perú",
+      "location": { "lat": -15.98, "lng": -72.25 }
+    },
+    {
+      "name": "Arroz con Pato",
+      "photo": "https://comedera.com/wp-content/uploads/sites/9/2022/05/Arroz-con-pato-peruano-shutterstock_1846729603.jpg?resize=1316,740&quality=80",
+      "description": "Pato cocido en cerveza negra y cilantro, servido con arroz verde teñido con hierbas.",
+      "ingredients": ["Pato", "Cerveza negra", "Cilantro", "Arroz", "Ají verde", "Cebolla", "Ajo"],
+      "origin": "Perú",
+      "location": { "lat": -6.43333, "lng": -79.86666 }
+    },
+    {
+      "name": "Pollo a la Brasa",
+      "photo": "https://enterados.pe/wp-content/uploads/2020/07/pollo-a-la-brasa.jpg",
+      "description": "Pollo marinado en especias y asado en horno rotatorio, acompañado de papas fritas y ensalada.",
+      "ingredients": ["Pollo entero", "Ají panca", "Romero", "Ajo", "Vinagre", "Cerveza", "Papas"],
+      "origin": "Perú",
+      "location": { "lat": -12.04318, "lng": -77.02824 }
+    },
+    {
+      "name": "Cuy Chactado",
+      "photo": "https://blog.viajesmachupicchu.travel/en/wp-content/uploads/2024/09/El-clasico-Chactado-de-Cuy-siempre-en-la-mesa-arequipena.quepayrestaurante-cuychactado-peruvianfood-comidaperuana.jpg",
+      "description": "Cuy (conejillo de indias) frito bajo una piedra, servido con papas y salsa de ají.",
+      "ingredients": ["Cuy", "Maíz molido", "Aceite", "Papas", "Ají", "Lechuga"],
+      "origin": "Perú",
+      "location": { "lat": -13.26, "lng": -72.11 }
+    },
+    {
+      "name": "Tacos al Pastor",
+      "photo": "https://lastaquerias.com/wp-content/uploads/2022/11/tacos-pastor-gaacc26fa8_1920.jpg",
+      "description": "Tortillas de maíz rellenas de carne de cerdo marinada en adobo de chiles, piña y especias.",
+      "ingredients": ["Carne de cerdo", "Tortillas de maíz", "Piña", "Cebolla", "Cilantro", "Chiles", "Especias"],
+      "origin": "México",
+      "location": { "lat": 19.4061, "lng": -99.1619 }
+    },
+    {
+      "name": "Paella",
+      "photo": "https://res.cloudinary.com/tienda-com/image/upload/f_auto/q_auto/c_fill,w_752/dpr_2.0/v1/recipes/mixed-seafood-paella",
+      "description": "Arroz cocido con azafrán, mariscos, pollo, chorizo y verduras, típico de la región de Valencia.",
+      "ingredients": ["Arroz", "Azafrán", "Mariscos", "Pollo", "Chorizo", "Pimiento", "Cebolla", "Tomate"],
+      "origin": "España",
+      "location": { "lat": 40.463667, "lng": -3.74922 }
+    },
+    {
+      "name": "Sushi",
+      "photo": "https://www.unileverfoodsolutions.com.mx/dam/global-ufs/mcos/NOLA/calcmenu/recipes/MX-recipes/general/sushi-empanizado/main-header.jpg",
+      "description": "Arroz avinagrado acompañado de pescado crudo, mariscos o vegetales, envuelto en alga nori.",
+      "ingredients": ["Arroz", "Pescado crudo", "Alga nori", "Vinagre de arroz", "Wasabi", "Salsa de soya"],
+      "origin": "Japón",
+      "location": { "lat": 36.204824, "lng": 138.252924 }
+    },
+    {
+      "name": "Pizza Margherita",
+      "photo": "https://imag.bonviveur.com/pizza-margarita.webp",
+      "description": "Pizza clásica con base de tomate, mozzarella fresca, albahaca y aceite de oliva.",
+      "ingredients": ["Masa de pizza", "Tomate", "Mozzarella", "Albahaca", "Aceite de oliva"],
+      "origin": "Italia",
+      "location": { "lat": 41.87194, "lng": 12.56738 }
+    },
+    {
+      "name": "Feijoada",
+      "photo": "https://comedera.com/wp-content/uploads/sites/9/2022/03/feijoada-brasilena.jpg?resize=1316,740&quality=80",
+      "description": "Guiso de frijoles negros con carne de cerdo, acompañado de arroz, col y farofa.",
+      "ingredients": ["Frijoles negros", "Carne de cerdo", "Arroz", "Col", "Farofa", "Naranja"],
+      "origin": "Brasil",
+      "location": { "lat": -14.235004, "lng": -51.92528 }
+    },
+    {
+      "name": "Pad Thai",
+      "photo": "https://imag.bonviveur.com/pad-thai.webp",
+      "description": "Fideos de arroz salteados con huevo, tofu, camarones, cacahuetes y salsa tamarindo.",
+      "ingredients": ["Fideos de arroz", "Huevo", "Tofu", "Camarones", "Cacahuetes", "Salsa de tamarindo"],
+      "origin": "Tailandia",
+      "location": { "lat": 15.870032, "lng": 100.992541 }
+    },
+    {
+      "name": "Hamburguesa",
+      "photo": "https://imag.bonviveur.com/hamburguesa-clasica.webp",
+      "description": "Pan con carne de res a la parrilla, acompañado de lechuga, tomate, queso y salsas.",
+      "ingredients": ["Pan de hamburguesa", "Carne de res", "Lechuga", "Tomate", "Queso", "Salsas"],
+      "origin": "Estados Unidos",
+      "location": { "lat": 37.09024, "lng": -95.712891 }
+    },
+    {
+      "name": "Ratatouille",
+      "photo": "https://imag.bonviveur.com/ratatouille-confit-byaldi.webp",
+      "description": "Guiso de verduras como berenjena, calabacín, pimiento y tomate, típico de la Provenza.",
+      "ingredients": ["Berenjena", "Calabacín", "Pimiento", "Tomate", "Cebolla", "Ajo", "Hierbas provenzales"],
+      "origin": "Francia",
+      "location": { "lat": 46.227638, "lng": 2.213749 }
+    },
+    {
+      "name": "Kimchi",
+      "photo": "https://imag.bonviveur.com/kimchi-coreano.webp",
+      "description": "Plato coreano de col fermentada con especias, ajo, jengibre y chile en polvo.",
+      "ingredients": ["Col china", "Ajo", "Jengibre", "Chile en polvo", "Salsa de pescado"],
+      "origin": "Corea del Sur",
+      "location": { "lat": 35.907757, "lng": 127.766922 }
+    },
+    {
+      "name": "Falafel",
+      "photo": "https://imag.bonviveur.com/falafel-recien-hechos.webp",
+      "description": "Albóndigas fritas de garbanzos y especias, servidas en pan pita con ensalada y tahini.",
+      "ingredients": ["Garbanzos", "Cebolla", "Ajo", "Perejil", "Comino", "Pan pita", "Tahini"],
+      "origin": "Medio Oriente",
+      "location": { "lat": 31.046051, "lng": 34.851612 }
+    }
+  ]
+}
